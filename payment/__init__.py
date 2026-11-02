@@ -1,4 +1,4 @@
-# Author: Student 4 (module: payment)
+# Author: Meckyla Jacob (module: payment)
 """Payment module: cash and e-wallet."""
 from contracts import IPayment, ICustomer, CanteenError
 
