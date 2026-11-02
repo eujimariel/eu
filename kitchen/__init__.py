@@ -1,4 +1,4 @@
-# Author: Student 5 (module: kitchen)
+# Author: Kissaia Caralde (module: kitchen)
 """Kitchen module: first-in-first-out queue of paid orders."""
 from collections import deque
 
