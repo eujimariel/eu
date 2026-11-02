@@ -1,4 +1,4 @@
-# Author: Student 2 (module: customer)
+# Author: Marie Eugenie H. Tesocan (module: customer)
 """Customer module: people with an e-wallet balance."""
 from contracts import ICustomer, CanteenError
 
