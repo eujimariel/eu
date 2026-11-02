@@ -1,4 +1,4 @@
-# Author: Student 1 (module: menu)
+# Author: Elsie Calimpon (module: menu)
 """Menu module: food items with prices and stock."""
 from contracts import IMenuItem, IMenu, CanteenError
 
