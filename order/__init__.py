@@ -1,4 +1,4 @@
-# Author: Student 3 (module: order)
+# Author: Iera Madorable (module: order)
 """Order module: the cart, the total and checkout."""
 from contracts import IOrder, IMenuItem, ICustomer, IPayment, CanteenError
 
